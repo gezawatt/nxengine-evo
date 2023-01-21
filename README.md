@@ -1,3 +1,5 @@
+This repo is a custom repo made for making a flatpak version of nxengine-evo.
+
 # NXEngine-evo
 A somewhat upgraded/refactored version of [NXEngine](http://nxengine.sourceforge.net/) by Caitlin Shaw.
 
